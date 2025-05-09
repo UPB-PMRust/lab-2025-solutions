@@ -8,5 +8,6 @@ As there are multiple exercises, we chose to split them into multiple binaries. 
 
 ```shell
 lab-2025-solutions
-└── lab02 -> GPIO
+├── lab02 -> GPIO
+└── lab03 -> PWM & ADC
 ```

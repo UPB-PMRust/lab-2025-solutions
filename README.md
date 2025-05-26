@@ -11,4 +11,5 @@ lab-2025-solutions
 ├── lab02 -> GPIO
 ├── lab03 -> PWM & ADC
 └── lab04 -> Asynchronous Development
+└── lab07 -> WiFi
 ```
